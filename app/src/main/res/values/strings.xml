@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">multi tool</string>
+    <string name="title_Qr">Go_Qr</string>
+    <string name="title_dashboard">weather</string>
+    <string name="title_notifications">CodeChef</string>
+
+</resources>
