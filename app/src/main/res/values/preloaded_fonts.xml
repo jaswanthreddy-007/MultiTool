@@ -3,5 +3,8 @@
     <array name="preloaded_fonts" translatable="false">
         <item>@font/jim_nightshade</item>
         <item>@font/monoton</item>
+        <item>@font/poppins_bold</item>
+        <item>@font/poppins_extrabold</item>
+        <item>@font/poppins_semibold</item>
     </array>
 </resources>
